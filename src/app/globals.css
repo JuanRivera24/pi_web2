@@ -4,7 +4,6 @@
   --card: #ffffff;
   --accent: #4f46e5;
 }
-
 html, body, #__next {
   height: 100%;
 }
@@ -15,3 +14,8 @@ body {
   color: #111827;
 }
 a { text-decoration: none; color: inherit; }
+
+  --background: #0c062b;
+  --foreground: #171717;
+}
+
